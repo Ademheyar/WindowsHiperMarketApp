@@ -1,5 +1,6 @@
 {
-  "version": "1.0.8",
-  "url": "https://raw.githubusercontent.com/Ademheyar/WindowsHiperMarketApp/master/releases/HiperMarket-v1.0.8.zip",
-  "changelog": "v1.0.8 Official Release of HiperMarket application."
+  "version": "1.0.16",
+  "url": "https://raw.githubusercontent.com/Ademheyar/WindowsHiperMarketApp/master/releases/HiperMarket-v1.0.16.zip",
+  "url_x86": "https://raw.githubusercontent.com/Ademheyar/WindowsHiperMarketApp/master/releases/HiperMarket-v1.0.16-x86.zip",
+  "changelog": "v1.0.16 Official Release of HiperMarket application."
 }
